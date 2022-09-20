@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651337845 source:c:\users\l'export solutions\desktop\programavimas\6. pamoka\ismanussviesaforas\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
